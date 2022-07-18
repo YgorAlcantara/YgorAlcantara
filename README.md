@@ -1,4 +1,4 @@
-### Hi there 👋 I'am Ygor Alcantara 😎
+### Hi there 👋 I'm Ygor Alcantara 😎
 
 - 🌱 I’m currently studying Data Science and Analytics
 - 📫 How to reach me: ygoralcantara@hotmail.com
