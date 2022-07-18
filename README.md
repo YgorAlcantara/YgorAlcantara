@@ -23,8 +23,7 @@
   
  <div> 
   <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-  
-   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
  </div>
   
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
