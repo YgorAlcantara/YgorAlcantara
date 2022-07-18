@@ -13,17 +13,28 @@
   <img align="center" alt="Ygor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-  ##
+---
+
+<div align="center">
+
+<i>Follow me around the web:</i><br>
   
   <div> 
  	 <a href = "mailto:ygoralcantara@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href = "mailto:ygoralcantara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ygor-alcantara-b44538234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+---
+
+<div align="center">
   
+<i>Random dev jokes for you!</i><br>
+
  <div> 
   <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
  </div>
-  
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+ 
+ <i>Random dev Quotes for you!</i><br>
+   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
