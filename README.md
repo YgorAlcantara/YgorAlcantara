@@ -16,8 +16,6 @@
 ---
 
 <div align="center">
-
-<i>Follow me around the web:</i><br>
   
   <div> 
  	 <a href = "mailto:ygoralcantara@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
@@ -35,6 +33,8 @@
   <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
  </div>
+ 
+ ---
  
  <i>Random dev Quotes for you!</i><br>
    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
