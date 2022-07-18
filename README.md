@@ -1,6 +1,6 @@
 ### Hi there 👋 I'am Ygor Alcantara 😎
 
-- 🌱 I’m currently learning Data Science and Analytics
+- 🌱 I’m currently studying Data Science and Analytics
 - 📫 How to reach me: ygoralcantara@hotmail.com
 - 😄 Pronouns: He/Him
 
