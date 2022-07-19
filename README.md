@@ -20,6 +20,7 @@
   <img align="center" alt="Ygor-Bizagi" height="40" width="40" src="https://pbs.twimg.com/profile_images/1392873778326216704/ZdfvMT70_400x400.png">
   <img align="center" alt="Ygor-Conda" height="40" width="40" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png">
   <img align="center" alt="Ygor-Neo4j" height="40" width="40" src="https://neo4j.com/wp-content/themes/neo4jweb/v2-templates/brand/assets/logo-section-4.svg">
+  <img align="center" alt="Ygor-Office" height="40" width="40" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/microsoft-office-512.png">
 </div>
  
 ---
