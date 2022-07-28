@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently studying Data Science and Analytics
 - 📫 How to reach me: ygoralcantara@hotmail.com
-- 😄 Pronouns: He/Him
 
 <div align="center">
   <a href="https://github.com/YgorAlcantara">
