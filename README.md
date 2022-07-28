@@ -3,10 +3,26 @@
 - 🌱 I’m currently studying Data Science and Analytics
 - 📫 How to reach me: ygoralcantara@hotmail.com
 
+ --- 
+
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+ <div align="center">
+  
+  <div> 
+ 	 <a href = "mailto:ygoralcantara@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ygoralcantara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ygor-alcantara-b44538234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+ --- 
+
 <div align="center">
   <a href="https://github.com/YgorAlcantara">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YgorAlcantara&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorAlcantara&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YgorAlcantara&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorAlcantara&layout=compact&langs_count=7&theme=highcontrast"/>
   
   ---  
 
@@ -22,16 +38,6 @@
   <img align="center" alt="Ygor-Office" height="40" width="40" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/microsoft-office-512.png">
 </div>
  
----
-
-<div align="center">
-  
-  <div> 
- 	 <a href = "mailto:ygoralcantara@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ygoralcantara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ygor-alcantara-b44538234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 ---
 
 <div align="center">
