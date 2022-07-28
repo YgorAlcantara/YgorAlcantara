@@ -34,7 +34,7 @@
 
 
 ## 📱Connect with me:
-<p align="left">
+<h4 align="center">
 
 <a href = "https://www.linkedin.com/in/ygor-alcantara-b44538234/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "mailto:ygoralcantara@gmail.com"><img height="50" width="45" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" target="_blank"></a>
