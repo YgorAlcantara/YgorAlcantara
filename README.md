@@ -42,13 +42,5 @@
 
 <div align="center">
   
-<i>Random dev jokes for you!</i><br>
-
- <div> 
-  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
- </div>
- 
- ---
- 
  <i>Random dev Quotes for you!</i><br>
    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
