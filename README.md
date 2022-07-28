@@ -1,11 +1,9 @@
 ### Hi there 👋 I'm Ygor Alcantara 😎
 
 - 🌱 I’m currently studying Data Science and Analytics
-- 📫 How to reach me: ygoralcantara@hotmail.com
-
  --- 
 
-<h4 align="center">
+<p align="center">
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
@@ -19,26 +17,23 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
-  ---  
-
-
-</div>
- <p align="center"> 
+## 💻Skills:
+ <h4 align="center"> 
+ </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ygor-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ygor-JavaScript" height="43" width="42" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png">
-  <img align="center" alt="Ygor-JavaScript" height="45" width="45" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
-  <img align="center" alt="Ygor-AWS" height="40" width="40" src="https://www.sophos.com/sites/default/files/2022-02/aws-logo-white-orange.png">
-  <img align="center" alt="Ygor-Conda" height="45" width="45" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png">
-  <img align="center" alt="Ygor-Docker" height="46" width="45" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
-  <img align="center" alt="Ygor-Terraform" height="46" width="45" src="https://icons-for-free.com/iconfiles/png/512/Terraform-1329545833434920628.png">
-  <img align="center" alt="Ygor-GIT" height="45" width="45" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png">
-  
-</div>
+  <img align="center" alt="Ygor-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ygor-JavaScript" height="37" width="37" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png">
+  <img align="center" alt="Ygor-CSS" height="40" width="40" src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png">
+  <img align="center" alt="Ygor-Conda" height="40" width="40" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png">
+  <img align="center" alt="Ygor-Docker" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
+  <img align="center" alt="Ygor-AWS" height="34" width="40" src="https://www.sophos.com/sites/default/files/2022-02/aws-logo-white-orange.png">
+  <img align="center" alt="Ygor-Terraform" height="40" width="40" src="https://icons-for-free.com/iconfiles/png/512/Terraform-1329545833434920628.png">
+  <img align="center" alt="Ygor-GIT" height="40" width="40" src="https://blog.scitools.com/wp-content/uploads/2021/12/Git-Icon-1788C.png">
+  </div>
  
----
 
-## Connect with me:
+
+## 📱Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ygor-alcantara-b44538234/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
