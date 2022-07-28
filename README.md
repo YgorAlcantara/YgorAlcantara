@@ -46,3 +46,6 @@
   
  <i>Random dev Quotes for you!</i><br>
    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+   
+   ![snake gif]
+   (https://github.com/YgorAlcantara/YgorAlcantara/blob/output/github-contribution-grid-snake.gif)
