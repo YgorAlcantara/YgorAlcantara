@@ -1,5 +1,9 @@
-👋 Hi there 😎 I'm YGOR ALCANTARA 🌱 i'm currently studying Data Science and Analytics
- --- 
+<p align="center">
+  <img width="45%" height="auto" src="https://giffiles.alphacoders.com/215/215485.gif" />
+  
+  
+  </p><h1 align="center">Hi 👋, I'm Ygor Alcantara 😎</h1>
+<h3 align="center">🌱 I'm currently studing Data Science and Analytics</h3>
 
 <p align="center">
  
