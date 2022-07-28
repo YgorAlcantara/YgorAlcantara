@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Ygor Alcantara 😎
-
-- 🌱 I’m currently studying Data Science and Analytics
+👋 Hi there 😎 I'm YGOR ALCANTARA 🌱 i'm currently studying Data Science and Analytics
  --- 
 
 <p align="center">
