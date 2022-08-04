@@ -23,14 +23,16 @@
  <h4 align="center"> 
  </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Ygor-Linux" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/226/226772.png">
+  <img align="center" alt="Ygor-AWS" height="34" width="40" src="https://www.sophos.com/sites/default/files/2022-02/aws-logo-white-orange.png">
+  <img align="center" alt="Ygor-GIT" height="40" width="40" src="https://blog.scitools.com/wp-content/uploads/2021/12/Git-Icon-1788C.png">
   <img align="center" alt="Ygor-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ygor-JavaScript" height="37" width="37" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png">
   <img align="center" alt="Ygor-CSS" height="40" width="40" src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png">
-  <img align="center" alt="Ygor-Conda" height="40" width="40" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png">
+  <img align="center" alt="Ygor-Ansible height="50" width="50" src="https://avatars3.githubusercontent.com/u/1507452?s=400&v=4">
   <img align="center" alt="Ygor-Docker" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
-  <img align="center" alt="Ygor-AWS" height="34" width="40" src="https://www.sophos.com/sites/default/files/2022-02/aws-logo-white-orange.png">
+  <img align="center" alt="Ygor-Kubernetes" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png">
   <img align="center" alt="Ygor-Terraform" height="40" width="40" src="https://icons-for-free.com/iconfiles/png/512/Terraform-1329545833434920628.png">
-  <img align="center" alt="Ygor-GIT" height="40" width="40" src="https://blog.scitools.com/wp-content/uploads/2021/12/Git-Icon-1788C.png">
   </div>
  
 
