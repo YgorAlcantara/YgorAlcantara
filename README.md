@@ -30,7 +30,7 @@
   <img align="center" alt="Ygor-Ansible height="50" width="50" src="https://avatars3.githubusercontent.com/u/1507452?s=400&v=4">
   <img align="center" alt="Ygor-Docker" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   <img align="center" alt="Ygor-Kubernetes" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png">
-  <img align="center" alt="Ygor-Terraform" height="40" width="40" src="https://icons-for-free.com/iconfiles/png/512/Terraform-1329545833434920628.png">
+  <img align="center" alt="Ygor-PowerBI" height="40" width="40" src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates.png">
   </div>
  
 
