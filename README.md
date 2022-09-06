@@ -1,13 +1,11 @@
 <p align="center">
   <img width="45%" height="auto" src="https://giffiles.alphacoders.com/215/215485.gif" />
   
-  
-  </p><h1 align="center">Hi 👋, I'm Ygor Alcantara 😎</h1>
-<h3 align="center">🌱 I'm currently studing Data Science and Analytics</h3>
+ <p align="center">
+  <img src="https://github.com/YgorAlcantara/YgorAlcantara/raw/main/assets/GitReadMe.gif" alt="Hi, I'm Ygor">
+</p>
 
 <p align="center">
- 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
  ## 📊 My Github Stats
  
