@@ -22,7 +22,6 @@
  </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ygor-Python" height="47" width="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Ygor-Julia" height="45" width="45" src="https://user-images.githubusercontent.com/46625993/103519899-5e9f9400-4e87-11eb-9898-7117369f44a1.png">
   <img align="center" alt="Ygor-GIT" height="42" width="42" src="https://blog.scitools.com/wp-content/uploads/2021/12/Git-Icon-1788C.png">
   <img align="center" alt="Ygor-MongoDB" height="50" width="50" src="https://img.icons8.com/color/480/mongodb.png">
   <img align="center" alt="Ygor-Neo4j" height="40" width="40" src="https://neo4j.com/wp-content/themes/neo4jweb/v2-templates/brand/assets/logo-section-4.svg">
