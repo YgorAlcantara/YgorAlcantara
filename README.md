@@ -22,7 +22,9 @@
  </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ygor-Python" height="47" width="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ygor-JavaScript" height="37" width="37" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+  <img align="center" alt="Ygor-JavaScript" height="38" width="37" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+  <img align="center" alt="Ygor-HTML5" height="39" width="39" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png">
+  <img align="center" alt="Ygor-CSS" height="39" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
   <img align="center" alt="Ygor-GIT" height="42" width="42" src="https://blog.scitools.com/wp-content/uploads/2021/12/Git-Icon-1788C.png">
   <img align="center" alt="Ygor-MongoDB" height="50" width="50" src="https://img.icons8.com/color/480/mongodb.png">
   <img align="center" alt="Ygor-Neo4j" height="40" width="40" src="https://neo4j.com/wp-content/themes/neo4jweb/v2-templates/brand/assets/logo-section-4.svg">
