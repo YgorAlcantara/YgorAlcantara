@@ -1,8 +1,5 @@
 <p align="center">
   <img width="45%" height="auto" src="https://giffiles.alphacoders.com/215/215485.gif" />
-  
- <p align="center">
-  <img src="https://github.com/YgorAlcantara/YgorAlcantara/raw/main/assets/GitReadMe.gif" alt="Hi, I'm Ygor">
 </p>
 
 <p align="center">
