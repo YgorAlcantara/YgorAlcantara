@@ -20,11 +20,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ygor-Python" height="47" width="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ygor-JavaScript" height="37" width="37" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
-  <img align="center" alt="Ygor-React" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+  <img align="center" alt="Ygor-React" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
   <img align="center" alt="Ygor-HTML5" height="38" width="39" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png">
   <img align="center" alt="Ygor-CSS" height="38" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
   <img align="center" alt="Ygor-GIT" height="42" width="42" src="https://blog.scitools.com/wp-content/uploads/2021/12/Git-Icon-1788C.png">
-  <img align="center" alt="Ygor-SQL" height="44" width="40" src="https://www.cleanpng.com/png-microsoft-sql-server-mysql-database-logo-2447831/">
+  <img align="center" alt="Ygor-SQL" height="44" width="40" src="https://www.freeiconspng.com/images/sql-server-icon-png">
   </div>
  
 
