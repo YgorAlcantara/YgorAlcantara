@@ -24,10 +24,7 @@
   <img align="center" alt="Ygor-HTML5" height="38" width="39" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png">
   <img align="center" alt="Ygor-CSS" height="38" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
   <img align="center" alt="Ygor-GIT" height="42" width="42" src="https://blog.scitools.com/wp-content/uploads/2021/12/Git-Icon-1788C.png">
-  <img align="center" alt="Ygor-SQL" height="44" width="40" src="https://www.freeiconspng.com/images/sql-server-icon-png">
-  </div>
  
-
 
 ## 📱Connect with me:
 <h4 align="center">
