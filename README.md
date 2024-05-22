@@ -24,7 +24,7 @@
   <img align="center" alt="Ygor-HTML5" height="38" width="39" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png">
   <img align="center" alt="Ygor-CSS" height="38" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
   <img align="center" alt="Ygor-GIT" height="42" width="42" src="https://blog.scitools.com/wp-content/uploads/2021/12/Git-Icon-1788C.png">
-  <img align="center" alt="Ygor-SQL" height="44" width="40" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png">
+  <img align="center" alt="Ygor-SQL" height="44" width="40" src="https://www.cleanpng.com/png-microsoft-sql-server-mysql-database-logo-2447831/">
   </div>
  
 
