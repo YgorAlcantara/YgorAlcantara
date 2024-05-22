@@ -23,11 +23,8 @@
   <img align="center" alt="Ygor-HTML5" height="38" width="39" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png">
   <img align="center" alt="Ygor-CSS" height="38" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
   <img align="center" alt="Ygor-GIT" height="42" width="42" src="https://blog.scitools.com/wp-content/uploads/2021/12/Git-Icon-1788C.png">
-  <img align="center" alt="Ygor-MongoDB" height="50" width="50" src="https://img.icons8.com/color/480/mongodb.png">
-  <img align="center" alt="Ygor-Neo4j" height="40" width="40" src="https://neo4j.com/wp-content/themes/neo4jweb/v2-templates/brand/assets/logo-section-4.svg">
-  <img align="center" alt="Ygor-PostgreeSQL" height="44" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
-  <img align="center" alt="Ygor-PowerBI" height="47" width="45" src="https://www.itrackglobal.com/theme/remui/pix/corporate-training/Trending%20Skills/Power%20BI%201.png">
-  <img align="center" alt="Ygor-Office" height="42" width="42" src="https://macmagazine.com.br/wp-content/uploads/2013/06/14-icone-office-mobile.png">
+  <img align="center" alt="Ygor-React" height="50" width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F13180%2Freact-original-wordmark&psig=AOvVaw1FRNOSl3X2fBKT1_z8JEPw&ust=1716464690934000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDC6uCXoYYDFQAAAAAdAAAAABAZ">
+  <img align="center" alt="Ygor-SQL" height="44" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
   </div>
  
 
